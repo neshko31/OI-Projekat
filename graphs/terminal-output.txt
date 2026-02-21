@@ -1,0 +1,131 @@
+----- Minimax, depth = 1 -----
+Avg:  0.001418
+Min:  0.001234
+Max:  0.002776
+Med:  0.00138
+Num moves:  3.44
+Win:  22
+Loss:  28
+Tie:  0
+Games played:  50
+
+----- Minimax, depth = 2 -----
+Avg:  0.007146
+Min:  0.000301
+Max:  0.009799
+Med:  0.008243
+Num moves:  12.52
+Win:  50
+Loss:  0
+Tie:  0
+Games played:  50
+
+----- Minimax, depth = 3 -----
+Avg:  0.046582
+Min:  0.036693
+Max:  0.055981
+Med:  0.047883
+Num moves:  4.88
+Win:  50
+Loss:  0
+Tie:  0
+Games played:  50
+
+----- Minimax, depth = 4 -----
+Avg:  0.175927
+Min:  0.000471
+Max:  0.322033
+Med:  0.241001
+Num moves:  16.44
+Win:  0
+Loss:  26
+Tie:  24
+Games played:  50
+
+----- Minimax, depth = 5 -----
+Avg:  1.235514
+Min:  0.001052
+Max:  1.95294
+Med:  1.520228
+Num moves:  12.3
+Win:  50
+Loss:  0
+Tie:  0
+Games played:  50
+
+----- Minimax, depth = 6 -----
+Avg:  5.059492
+Min:  0.000491
+Max:  11.301826
+Med:  3.381364
+Num moves:  13.66
+Win:  31
+Loss:  0
+Tie:  19
+Games played:  50
+
+----- Alpha-beta pruning, depth = 1 -----
+Avg:  0.001375
+Min:  0.001244
+Max:  0.001479
+Med:  0.001379
+Num moves:  3.42
+Win:  21
+Loss:  29
+Tie:  0
+Games played:  50
+
+----- Alpha-beta pruning, depth = 2 -----
+Avg:  0.004599
+Min:  0.000288
+Max:  0.007497
+Med:  0.005442
+Num moves:  13.22
+Win:  50
+Loss:  0
+Tie:  0
+Games played:  50
+
+----- Alpha-beta pruning, depth = 3 -----
+Avg:  0.018104
+Min:  0.007322
+Max:  0.043087
+Med:  0.018035
+Num moves:  4.72
+Win:  50
+Loss:  0
+Tie:  0
+Games played:  50
+
+----- Alpha-beta pruning, depth = 4 -----
+Avg:  0.052875
+Min:  0.000472
+Max:  0.148059
+Med:  0.040528
+Num moves:  16.86
+Win:  0
+Loss:  19
+Tie:  31
+Games played:  50
+
+----- Alpha-beta pruning, depth = 5 -----
+Avg:  0.231343
+Min:  0.000476
+Max:  0.563554
+Med:  0.200776
+Num moves:  11.8
+Win:  50
+Loss:  0
+Tie:  0
+Games played:  50
+
+----- Alpha-beta pruning, depth = 6 -----
+Avg:  0.66708
+Min:  0.000489
+Max:  2.043946
+Med:  0.843488
+Num moves:  14.22
+Win:  27
+Loss:  0
+Tie:  23
+Games played:  50
